@@ -46,6 +46,10 @@
 <br>
 
 <p align = "center">
+
 <img  height='160px'  src = 'https://github-readme-stats.vercel.app/api?username=KaanKizildag&theme=tokyonight&count_private=true&show_icons=true&hide=issues'>
+
+<img height='160px' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KaanKizildag&theme=tokyonight&layout=compact&show"/>
+
 </p>
 
