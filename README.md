@@ -53,3 +53,6 @@
 
 </p>
 
+<p align = "center">
+<img src = "https://profile-counter.glitch.me/%7BKaanKizildag%7D/count.svg"/>
+</p>
