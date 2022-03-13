@@ -52,6 +52,8 @@
 
 <img height='160px' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KaanKizildag&theme=gruvbox&layout=compact&show"/>
 
+<img height='160px' src = "https://activity-graph.herokuapp.com/graph?username=kaankizildag&theme=gruvbox"/>
+
 </p>
 
 <p align = "center">
