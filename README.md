@@ -6,7 +6,8 @@
 <h5 align = "center" >
     
 <li> Java geliştiriciyim. ☕️ </li>
-<li> Spring framework öğreniyorum... 👨‍💻 </li>
+<li> Cucumber test öğreniyorum... 🥒 </li>
+<li> Spring framework ile çalışıyorum... 👨‍💻 </li>
 <li> Yapay zeka ve makine öğrenmesi alanlarına ilgi duyuyorum. 🧠 </li>
      
 </h5>
@@ -47,9 +48,9 @@
 
 <p align = "center">
 
-<img  height='160px'  src = 'https://github-readme-stats.vercel.app/api?username=KaanKizildag&theme=tokyonight&count_private=true&show_icons=true&hide=issues'>
+<img  height='160px'  src = 'https://github-readme-stats.vercel.app/api?username=KaanKizildag&theme=gruvbox&count_private=true&show_icons=true&hide=issues'>
 
-<img height='160px' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KaanKizildag&theme=tokyonight&layout=compact&show"/>
+<img height='160px' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KaanKizildag&theme=gruvbox&layout=compact&show"/>
 
 </p>
 
