@@ -17,7 +17,7 @@
 <div align = "center"> 
 
 <img src = "https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=OpenJDK&logoColor=black">
-<img src = "	https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+<img src = "https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
 <img src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src = "https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=Cucumber&logoColor=white">
 
