@@ -8,7 +8,7 @@
 <li> Java geliştiriciyim. ☕️ </li>
 <li> Cucumber test öğreniyorum... 🥒 </li>
 <li> Spring framework ile çalışıyorum... 👨‍💻 </li>
-<li> Yapay zeka ve makine öğrenmesi alanlarına ilgi duyuyorum. 🧠 </li>
+<li> Güncel teknolojilerle çalışmayı seviyorum. 🚀 </li>
      
 </h5>
 
@@ -16,31 +16,24 @@
 
 <div align = "center"> 
 
-<img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-
-<img src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-
+<img src = "https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=OpenJDK&logoColor=black">
+<img src = "	https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
 <img src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
 <img src = "https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=Cucumber&logoColor=white">
 
 ---
 
-<img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
-
-<img src = "https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src = "https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src = "https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src = "https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=Kibana&logoColor=white">
+<img src = "https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+<img src = "https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white">
 
 ---
 
+<img src = "https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
 <img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-
 <img src = "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-
 <img src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
 
 </div>
 
