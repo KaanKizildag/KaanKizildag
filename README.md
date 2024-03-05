@@ -3,16 +3,6 @@
 
 <br>
 
-<h5 align = "center" >
-    
-<li> Java geliştiriciyim. ☕️ </li>
-<li> Cucumber test öğreniyorum... 🥒 </li>
-<li> Spring framework ile çalışıyorum... 👨‍💻 </li>
-<li> Güncel teknolojilerle çalışmayı seviyorum. 🚀 </li>
-     
-</h5>
-
-<br>
 
 <div align = "center"> 
 
